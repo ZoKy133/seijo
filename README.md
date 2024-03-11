@@ -1,2 +1,2 @@
-# seijo
+# seiji
 seij
